@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Melody Messenger</string>
+    <string name="chirp_app_key">M1X2maFHec6j1tmBVXOTYy3t8</string>
+    <string name="chirp_app_secret">nFVFygFnFHkncAFGgRJ7w6LN5zeibpH48octIXmnU4mHAHZ6UR</string>
+    <string name="chirpButton">Buzzzzzz!!</string>
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/abhishekbhagwat/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.3/56498efd17752898cfcc3868c1b6211a07b12b8f/joda-time-2.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="56498efd17752898cfcc3868c1b6211a07b12b8f">
+        <dex dex="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/pre-dexed/release/joda-time-2.3_5c336fe460144b1ec42d08d3e63382d7162f19cd.jar" />
+    </item>
+    <item
+        jar="/Users/abhishekbhagwat/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/4.48/afa06f539a4026c10b247386312aa67404b80a16/ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/pre-dexed/release/ormlite-android-4.48_c1dbee77fa64d93fecd894f9a815679d462cf714.jar" />
+    </item>
+    <item
+        jar="/Users/abhishekbhagwat/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/pre-dexed/release/okio-1.13.0_32a9c073701105b9386c5c4791403a6fdc5c2f3f.jar" />
+    </item>
+    <item
+        jar="/Users/abhishekbhagwat/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/pre-dexed/release/support-annotations-23.1.1_90df8581a1cd8206588eda98f5117c138e88fdb7.jar" />
+    </item>
+    <item
+        jar="/Users/abhishekbhagwat/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/4.48/e579bd2905d0399af5029aaaf9817d5fa0ca88a5/ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/pre-dexed/release/ormlite-core-4.48_0aa549e367746c95f1644dd0a3d37786317e8b1a.jar" />
+    </item>
+    <item
+        jar="/Users/abhishekbhagwat/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/pre-dexed/release/retrofit-2.3.0_c6d05ac5f57d00d121a57fb2c4de74977113df82.jar" />
+    </item>
+    <item
+        jar="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1_f8e849633f63beac36780d7f3a9dc1c3af40e110.jar" />
+    </item>
+    <item
+        jar="/Users/abhishekbhagwat/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/pre-dexed/release/gson-2.7_bc24aabf7b09ca87da9871752a920abb2b9a58c8.jar" />
+    </item>
+    <item
+        jar="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/exploded-aar/io.chirp.sdk/chirp-sdk-release/2.5.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="557f30ef91b9dd05fcc03470174a4079440a134e">
+        <dex dex="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/pre-dexed/release/io.chirp.sdk-chirp-sdk-release-2.5.2_2b9a40aa96a2ebab5601189e92a1bb10ef94b22a.jar" />
+    </item>
+    <item
+        jar="/Users/abhishekbhagwat/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/pre-dexed/release/converter-gson-2.3.0_9960e471fd7c228faa0bb7561d7f711b32d00e20.jar" />
+    </item>
+    <item
+        jar="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.1.1_91edd4d3c31ef8341ff5de7819f79f9716024983.jar" />
+    </item>
+    <item
+        jar="/Users/abhishekbhagwat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/pre-dexed/release/okhttp-3.8.0_7cf282e7d57caecb032d714e7e5a6d62d5f350b8.jar" />
+    </item>
+    <item
+        jar="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/abhishekbhagwat/Downloads/Chirp-Android-SDK-2.5.2/Examples/Messenger/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.1.1_c233c8f6201b998123cc036308c73cd4216a4a30.jar" />
+    </item>
+
+</items>
